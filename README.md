@@ -91,11 +91,11 @@ This is mainly my personal learning repo,
 but if someone wants to suggest improvements, feel free to make a pull request.
 
 ## 🙌 Support
-If this repository helps you:
-**- ⭐ Star the repo**
-**- 🍴 Fork it**
-**- 🔁 Share it with friends preparing for interviews**
-**Happy coding! 🚀**
+If this repository helps you: <br>
+**- ⭐ Star the repo** <br>
+**- 🍴 Fork it** <br>
+**- 🔁 Share it with friends preparing for interviews** <br>
+**Happy coding! 🚀** 
 
 
 
