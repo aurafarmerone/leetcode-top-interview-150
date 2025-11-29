@@ -36,28 +36,29 @@ Problems are grouped by category:
 
 # ✅ Repository Structure <br>
 **leetcode-top-interview-150/** <br>
-**│** <br>
-**├──📂 Array String/** <br>
-**│   ├── 27_Remove_Element.java** <br>
-**│   ├── 26_remove_duplicates.java** <br>
-**│** <br>
-**├──📂 Two Pointers/** <br>
-**│   ├── 167_Two_Sum-ii.java** <br>
-**│   ├── 125_valid_palindrome.java** <br>
-**│** <br>
-**├──📂 LinkedList/** <br>
-**│   ├── 21_merge_two_sorted_lists.java** <br>
-**│   ├── 141_linked_list_cycle.java** <br>
-**│** <br>
-**├──📂 BinarySearch/** <br>
-**│   ├── 33_search_in_rotated_array.java** <br>
-**│** <br>
-**├──📂 DP/** <br>
-**│   ├── 70_climbing_stairs.java** <br>
-**.** <br>
-**.** <br>
-**.** <br>
-**├── README.md** <br>
+```
+│
+├── 📂 Array_String/
+│   ├── 27_Remove_Element.java
+│   ├── 26_remove_duplicates.java
+│
+├── 📂 Two_Pointers/
+│   ├── 167_Two_Sum_II.java
+│   ├── 125_valid_palindrome.java
+│
+├── 📂 LinkedList/
+│   ├── 21_merge_two_sorted_lists.java
+│   ├── 141_linked_list_cycle.java
+│
+├── 📂 BinarySearch/
+│   ├── 33_search_in_rotated_array.java
+│
+├── 📂 DP/
+│   ├── 70_climbing_stairs.java
+│
+├── README.md
+
+```
 
 
 ## 📌 About This Repository
