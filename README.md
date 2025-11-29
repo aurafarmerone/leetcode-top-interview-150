@@ -81,10 +81,10 @@ I am solving problems mainly in:
 ---
 
 ## ▶️ How to Run Java Solutions
-
-- **javac Solution.java**
-- **java Solution**
-
+```
+ **javac Solution.java**
+ **java Solution**
+```
 ## 📬 Contributing
 This is mainly my personal learning repo,
 but if someone wants to suggest improvements, feel free to make a pull request.
