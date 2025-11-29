@@ -75,15 +75,15 @@ This repo includes:
 
 ## 📘 **Languages Used**
 I am solving problems mainly in:
-- **Java**
-- **Python** 
+ **Java** <br>
+ **Python** 
 
 ---
 
 ## ▶️ How to Run Java Solutions
 ```
- **javac Solution.java**
- **java Solution**
+ javac Solution.java
+ java Solution
 ```
 ## 📬 Contributing
 This is mainly my personal learning repo,
