@@ -66,15 +66,15 @@ LeetCode created the **Top Interview 150** list to help candidates prepare for t
 Google, Meta, Amazon, Microsoft, Apple, Netflix, etc.
 
 This repo includes:
-- ✔ Clean, optimized solutions  
-- ✔ Categorized by topic  
-- ✔ Code with comments  
-- ✔ Multiple approaches when useful  
-- ✔ Time & Space complexity
+ ✔ Clean, optimized solutions  
+ ✔ Categorized by topic  
+ ✔ Code with comments  
+ ✔ Multiple approaches when useful  
+ ✔ Time & Space complexity
 
 
 ## 📘 **Languages Used**
-I am solving problems mainly in:
+I am solving problems mainly in: <br>
  **Java** <br>
  **Python** 
 
