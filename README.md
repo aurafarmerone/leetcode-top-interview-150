@@ -34,30 +34,30 @@ Problems are grouped by category:
 # 🎯 Goal
 **To revise DSA properly and track my progress while preparing for top-level software engineering interviews.**
 
-# ✅ Repository Structure
-**leetcode-top-interview-150/**
-**│**
-**├──📂 Array String/**
-**│   ├── 27_Remove_Element.java**
-**│   ├── 26_remove_duplicates.java**
-**│**
-**├──📂 Two Pointers/**
-**│   ├── 167_Two_Sum-ii.java**
-**│   ├── 125_valid_palindrome.java**
-**│**
-**├──📂 LinkedList/**
-**│   ├── 21_merge_two_sorted_lists.java**
-**│   ├── 141_linked_list_cycle.java**
-**│**
-**├──📂 BinarySearch/**
-**│   ├── 33_search_in_rotated_array.java**
-**│**
-**├──📂 DP/**
-**│   ├── 70_climbing_stairs.java**
-**.**
-**.**
-**.**
-**├── README.md**
+# ✅ Repository Structure <br>
+**leetcode-top-interview-150/** <br>
+**│** <br>
+**├──📂 Array String/** <br>
+**│   ├── 27_Remove_Element.java** <br>
+**│   ├── 26_remove_duplicates.java** <br>
+**│** <br>
+**├──📂 Two Pointers/** <br>
+**│   ├── 167_Two_Sum-ii.java** <br>
+**│   ├── 125_valid_palindrome.java** <br>
+**│** <br>
+**├──📂 LinkedList/** <br>
+**│   ├── 21_merge_two_sorted_lists.java** <br>
+**│   ├── 141_linked_list_cycle.java** <br>
+**│** <br>
+**├──📂 BinarySearch/** <br>
+**│   ├── 33_search_in_rotated_array.java** <br>
+**│** <br>
+**├──📂 DP/** <br>
+**│   ├── 70_climbing_stairs.java** <br>
+**.** <br>
+**.** <br>
+**.** <br>
+**├── README.md** <br>
 
 
 ## 📌 About This Repository
@@ -65,7 +65,7 @@ Problems are grouped by category:
 LeetCode created the **Top Interview 150** list to help candidates prepare for technical interviews at big tech companies like  
 Google, Meta, Amazon, Microsoft, Apple, Netflix, etc.
 
-This repo includes:
+This repo includes: <br>
  ✔ Clean, optimized solutions  
  ✔ Categorized by topic  
  ✔ Code with comments  
