@@ -103,3 +103,6 @@ If this repository helps you: <br>
 # 🎯 Goal
 
 **To revise DSA properly and track my progress while preparing for top-level software engineering interviews.**
+
+# Author 
+## Ritik Tyagi
