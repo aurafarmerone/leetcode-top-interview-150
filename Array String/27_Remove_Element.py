@@ -1,0 +1,15 @@
+class Solution:
+    def removeElement(self, nums: List[int], val: int) -> int:
+        k = 0
+        n = len(nums)
+        for i in range(n):
+            if nums[i] != val:
+                k = k+1
+                continue
+            else:
+                nums[i] = math.inf
+                
+
+        nums.sort()
+
+        return k            
