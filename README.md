@@ -1,7 +1,7 @@
+# 🧠 LeetCode Top Interview 150 – My Solutions
+
 ![Top-150-Image](https://i.postimg.cc/K8HNk5tS/Screenshot-2025-12-17-205551.png)
 
-
-## 🧠 LeetCode Top Interview 150 – My Solutions
 This repository contains my personal solutions to the LeetCode Top Interview 150 questions.
 It is designed to track my DSA progress and help others understand clean and efficient solution patterns.
 
